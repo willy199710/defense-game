@@ -1,0 +1,179 @@
+C:\Users\User\Desktop\視窗 期末專題\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\User\Desktop\視窗 期末專題\期末專題\bin\Debug\期末專題.exe
+C:\Users\User\Desktop\視窗 期末專題\期末專題\bin\Debug\期末專題.pdb
+C:\Users\User\Desktop\視窗 期末專題\期末專題\bin\Debug\期末專題.xml
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.exe
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.xml
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.pdb
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\User\Desktop\視窗 期末專題\期末專題\obj\Debug\期末專題.Form3.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\bin\Debug\期末專題.exe.config
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\bin\Debug\期末專題.exe
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\bin\Debug\期末專題.pdb
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\bin\Debug\期末專題.xml
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.Form1.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.Form2.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.Form3.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.Resources.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.exe
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.xml
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.pdb
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\willy\Desktop\期末標題改\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\willy\Desktop\期末標題改\期末專題\bin\Debug\期末專題.exe
+C:\Users\willy\Desktop\期末標題改\期末專題\bin\Debug\期末專題.pdb
+C:\Users\willy\Desktop\期末標題改\期末專題\bin\Debug\期末專題.xml
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.exe
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.xml
+C:\Users\willy\Desktop\期末標題改\期末專題\obj\Debug\期末專題.pdb
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\bin\Debug\期末專題.exe
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\bin\Debug\期末專題.pdb
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\bin\Debug\期末專題.xml
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.exe
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.xml
+C:\Users\user\Desktop\期末標題改\期末標題改\期末專題\obj\Debug\期末專題.pdb
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.exe
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.pdb
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.xml
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.exe
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.xml
+C:\Users\willy\Desktop\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.pdb
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.exe
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.pdb
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.xml
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.exe
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.xml
+C:\Users\user\Desktop\00000~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.pdb
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.exe
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.pdb
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\bin\Debug\期末專題.xml
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.exe
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.xml
+C:\Users\user\Desktop\00000~~\期末標題改改\期末標題改\期末專題\obj\Debug\期末專題.pdb
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\bin\Debug\期末專題.exe.config
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\bin\Debug\期末專題.exe
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\bin\Debug\期末專題.pdb
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\bin\Debug\期末專題.xml
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.Form1.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.Form2.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.Form3.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.Form4.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.Resources.resources
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.exe
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.xml
+D:\怡蒨儲藏室\那些學校的事\嘉大 資管\☆大二下學期\視窗程式設計\視窗 期末專題\VB 遊戲\期末專題\obj\Debug\期末專題.pdb
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.pdb
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.xml
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.exe
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.xml
+C:\Users\user\Desktop\27238_VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.pdb
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.pdb
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.xml
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.exe
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.xml
+C:\Users\willy\Desktop\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.pdb
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.pdb
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.xml
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.exe
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.xml
+C:\Users\user\Desktop\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.pdb
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe.config
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.exe
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.pdb
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\bin\Debug\期末專題.xml
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbprojResolveAssemblyReference.cache
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form1.resources
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form2.resources
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form3.resources
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Form4.resources
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.Resources.resources
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.GenerateResource.cache
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.vbproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.exe
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.xml
+C:\Users\willy\Desktop\VB\VB\VB\VB 遊戲\VB 遊戲\期末專題\obj\Debug\期末專題.pdb
